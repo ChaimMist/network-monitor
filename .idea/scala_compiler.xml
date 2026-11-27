@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="networkMonitor,networkMonitor.main,networkMonitor.test" />
+    <profile name="sbt 1" modules="networkMonitor,networkMonitor.main,networkMonitor.test,networkmonitor_9760,networkmonitor_9760.main,networkmonitor_9760.test" />
   </component>
 </project>

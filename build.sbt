@@ -6,3 +6,5 @@ lazy val root = (project in file("."))
   .settings(
     name := "networkMonitor"
   )
+
+libraryDependencies += "org.apache.pekko" %% "pekko-stream" % "1.2.1"
